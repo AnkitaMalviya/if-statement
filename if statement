@@ -1,0 +1,5 @@
+name=input("Enter name:")
+if name==Shivansh:
+   print("User is Shivansh leve")
+else:
+   print("Invalid user")
